@@ -1,5 +1,8 @@
 # Big Mart Dataset Analysis: Regression Problem
 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=f-Kk9XOfyDk&t=1457s)
+
+
 ![dataset-cover](https://github.com/user-attachments/assets/a44936d9-e064-4c4f-9d68-5ae70a82adef)
 
 ## Overview
